@@ -9,9 +9,6 @@ class User {
 	}
 };
 
-// User.prototype.getInfo = function () {
-// 	console.log(`User ${this.name} is ${this.age} years old and has ${this.followers} followers`)
-// } - для теста Function.prototype
 
 const mango = new User({
 	name: 'Mango',
